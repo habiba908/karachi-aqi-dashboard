@@ -1,0 +1,6 @@
+streamlit
+pymongo
+dnspython
+pandas
+matplotlib
+python-dateutil
